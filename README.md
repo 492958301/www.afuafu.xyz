@@ -1,5 +1,5 @@
 ![image](https://raw.githubusercontent.com/492958301/www.afuafu.xyz/main/%E9%A6%96%E9%A1%B5.png)  
-# www.afuafu.xyz  
+# www.afuzhp.xyz  
 开源可运营在线短信轰炸源码 可搭建分站 分销运营  
 测试站点:www.zorozo.top  
 测试站点仅供测试网站样式 不提供轰炸服务 避免服务器压力过大 实际运营请自行宝塔面板搭建
@@ -17,7 +17,8 @@ Demo:
 源码安装地址：你的域名/install  
 
 ![01A93EAB](https://user-images.githubusercontent.com/83250450/163652472-42009ec7-51c6-49f6-878d-dfce0dcc271e.png)
-客户端版本短信轰炸请访问www.afuzhp.xyz
+客户端版本短信轰炸请访问
+# www.afuzhp.xyz  
 
 需要更多接口可以加我2222123876 备注需要接口
 交流群:1141849170 答案:黑虎阿福 
