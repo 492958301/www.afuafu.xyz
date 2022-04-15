@@ -17,7 +17,7 @@ Demo:
 源码安装地址：你的域名/install  
 
 ![01A93EAB](https://user-images.githubusercontent.com/83250450/163652472-42009ec7-51c6-49f6-878d-dfce0dcc271e.png)
-客户端版本短信轰炸请访问afuzhp.xyz
+客户端版本短信轰炸请访问www.afuzhp.xyz
 
 需要更多接口可以加我2222123876 备注需要接口
 交流群:1141849170 答案:黑虎阿福 
